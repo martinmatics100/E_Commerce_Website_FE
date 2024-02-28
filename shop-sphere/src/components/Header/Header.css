@@ -1,0 +1,9 @@
+.header {
+  background-color: #ffffff;
+}
+
+.header p {
+  color: #000000;
+  font-size: 22px;
+  font-weight: 600;
+}
